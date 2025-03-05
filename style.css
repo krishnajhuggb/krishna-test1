@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+p {
+    font-size: 1.2em;
+}
